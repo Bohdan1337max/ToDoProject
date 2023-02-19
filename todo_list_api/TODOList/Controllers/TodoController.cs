@@ -17,7 +17,6 @@ public class TodoController : ControllerBase
     {
         _taskRepository = taskRepository;
     }
-    
 
     [HttpGet]
     public IEnumerable<Task> GetTasks()

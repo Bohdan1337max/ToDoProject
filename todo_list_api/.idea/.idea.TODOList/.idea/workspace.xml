@@ -8,14 +8,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bdfdd45-b1f5-4cef-845c-d2c04d5ba66f" name="Changes" comment="" />
+    <list default="true" id="2bdfdd45-b1f5-4cef-845c-d2c04d5ba66f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../todo_list_ui/src/components/EnterBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_list_ui/src/components/Todo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo_list_ui/src/components/TodoTable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TODOList/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TODOList/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TODOList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TODOList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TODOList/Controllers/TodoController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/Controllers/TodoController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TODOList/bin/Debug/net6.0/TODOList.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/bin/Debug/net6.0/TODOList.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TODOList/bin/Debug/net6.0/TODOList.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/bin/Debug/net6.0/TODOList.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TODOList/bin/Debug/net6.0/TODOList.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/bin/Debug/net6.0/TODOList.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/TODOList.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/TODOList.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/TODOList.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/TODOList.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/TODOList.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/TODOList.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/TODOList.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/TODOList.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/TODOList.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/TODOList.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/TODOList.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/TODOList.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TODOList/obj/TODOList.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/obj/TODOList.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TODOList/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TODOList/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TODOList/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TODOList/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TODOList/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/obj/staticwebassets.pack.sentinel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo_list_ui/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../todo_list_ui/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo_list_ui/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../todo_list_ui/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo_list_ui/src/components/Form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo_list_ui/src/components/TodoList.js" beforeDir="false" afterPath="$PROJECT_DIR$/../todo_list_ui/src/components/TodoList.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1abb2696c3e0194fd5bb62254c37a28878e46192b53fe8ad2df3f329e6f77ee/MvcServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
@@ -37,7 +64,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -94,6 +121,10 @@
       <workItem from="1667914782565" duration="598000" />
       <workItem from="1670260951302" duration="3953000" />
       <workItem from="1671562151470" duration="399000" />
+      <workItem from="1671564860536" duration="166000" />
+      <workItem from="1676155241760" duration="1215000" />
+      <workItem from="1676569538064" duration="1813000" />
+      <workItem from="1676676961817" duration="3035000" />
     </task>
     <servers />
   </component>
@@ -115,6 +146,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>
