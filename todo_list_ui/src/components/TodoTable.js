@@ -6,8 +6,10 @@ class TodoTable extends React.Component {
     render() {
         const todos = this.props.todos;
         const isCompleted = this.props.isCompleted;
+        const rows = [];
+
         return(
-            <Todo/>
+           <Todo/>
         )
     }
 

@@ -9,32 +9,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bdfdd45-b1f5-4cef-845c-d2c04d5ba66f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../todo_list_ui/src/components/EnterBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo_list_ui/src/components/Todo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todo_list_ui/src/components/TodoTable.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TODOList/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TODOList/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TODOList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TODOList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TODOList/Controllers/TodoController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/Controllers/TodoController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TODOList/bin/Debug/net6.0/TODOList.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/bin/Debug/net6.0/TODOList.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TODOList/bin/Debug/net6.0/TODOList.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/bin/Debug/net6.0/TODOList.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TODOList/bin/Debug/net6.0/TODOList.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/bin/Debug/net6.0/TODOList.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/TODOList.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/TODOList.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/TODOList.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/TODOList.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/TODOList.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/TODOList.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/TODOList.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/TODOList.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/TODOList.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/TODOList.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/TODOList.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/TODOList.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/obj/Debug/net6.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TODOList/obj/TODOList.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/obj/TODOList.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TODOList/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TODOList/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TODOList/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TODOList/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TODOList/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/TODOList/obj/staticwebassets.pack.sentinel" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo_list_ui/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../todo_list_ui/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo_list_ui/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../todo_list_ui/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo_list_ui/src/components/Form.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../todo_list_ui/src/components/TodoList.js" beforeDir="false" afterPath="$PROJECT_DIR$/../todo_list_ui/src/components/TodoList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo_list_ui/src/components/TodoTable.js" beforeDir="false" afterPath="$PROJECT_DIR$/../todo_list_ui/src/components/TodoTable.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +102,8 @@
       <workItem from="1676155241760" duration="1215000" />
       <workItem from="1676569538064" duration="1813000" />
       <workItem from="1676676961817" duration="3035000" />
+      <workItem from="1677449484105" duration="1807000" />
+      <workItem from="1677602920722" duration="1971000" />
     </task>
     <servers />
   </component>
